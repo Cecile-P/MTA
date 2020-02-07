@@ -1,4 +1,12 @@
 #function that extract disease codes corresponding to a specific disease
+#' Title
+#'
+#' @param tab
+#'
+#' @return
+#' @export
+#'
+#' @examples
 extractDiseaseCode = function(tab){
   listCode = list()
   for(i in 1:nrow(tab)){

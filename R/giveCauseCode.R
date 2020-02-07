@@ -1,4 +1,12 @@
 # function that transforms each element of vect_cause in a code
+#' Title
+#'
+#' @param vect_cause
+#'
+#' @return
+#' @export
+#'
+#' @examples
 giveCauseCode = function(vect_cause){
   cause = c()
   # print(nchar(vect_cause))

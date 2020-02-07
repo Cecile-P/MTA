@@ -2,6 +2,15 @@
 #WHO_UN: table with 3 columns, one for the WHO code, one for the UN code and one for the country name
 # when the UNcode doesn't exist, -1 is reported
 #WHOcode: WHO country code
+#' Title
+#'
+#' @param WHOcode
+#' @param WHO_UN
+#'
+#' @return
+#' @export
+#'
+#' @examples
 WHOtoUN = function(WHOcode,WHO_UN){
   UNcode = c()
   for(code in WHOcode){
