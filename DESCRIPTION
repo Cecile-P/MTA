@@ -1,0 +1,14 @@
+Package: MTA
+Title: Mortality trend analysis
+Version: 0.0.0.1
+Authors@R: 
+    person(given = "Cécile",
+           family = "Pizot",
+           role = c("aut", "cre"),
+           email = "cecile.pizot@i-pri.org",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package contains all function needed for a mortality trend analysis using the WHO database and the UN database.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
