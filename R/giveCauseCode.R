@@ -1,4 +1,3 @@
-# function that transforms each element of vect_cause in a code
 #' Title
 #'
 #' @param vect_cause

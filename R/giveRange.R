@@ -1,6 +1,3 @@
-# Function that gives a range of codes from a string containing "-".
-# String: for example I20-I25 will give I20,I21,I22,I23,I24,I25.
-# A070 will give A070 because of "-" is missing.
 #' Title
 #'
 #' @param string

@@ -1,4 +1,3 @@
-#function that extract disease codes corresponding to a specific disease
 #' Title
 #'
 #' @param tab
